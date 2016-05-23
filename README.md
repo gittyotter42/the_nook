@@ -1,3 +1,6 @@
+Description: 
+    Website for a children's play event space. 
+
 Items: 
     1. UnderConstructionPage.html - displays the logo and "coming soon" text. 
     2. homepage.html - homepage of the website
