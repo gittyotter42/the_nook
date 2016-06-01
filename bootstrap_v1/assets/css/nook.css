@@ -1,0 +1,43 @@
+/*color pallet
+    med blue    #40C0FF -> shaded #36A2D8
+    light blue  #89D1E8
+    off white   #FDFCFD
+    black       #000000
+    darker blue #33AFD7
+    
+*/
+
+
+
+body {
+    background-color: #89D1E8
+}
+
+.masthead .nav-justified  {
+    border: 1px solid #36A2D8;
+}
+
+.masthead .nav-justified li, ul  {
+    border:none;
+}
+
+.masthead .nav-justified li a {
+    border: none;
+}
+
+.masthead .nav-justified li a:hover {
+    background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
+}
+
+.masthead .nav-justified li a {
+background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
+}
+
+.row {
+    margin-top: 10px;
+}
+
+.white-panel {
+    background-color: #FDFCFD;
+    border-radius:5px;
+}
