@@ -37,7 +37,7 @@
 
     <div class="container">
         <div class="masthead">
-            <img class='img-responsive' style='width:275px; margin:0 auto;' src='assets/images/Nook-Logo.png'/>
+            <img class='img-responsive logo' style='width:275px; margin:0 auto;' src='assets/images/Nook-Logo.png'/>
             <?php include("menu.php")?>
           </div>
           

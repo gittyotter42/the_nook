@@ -3,11 +3,17 @@ body {
     margin: auto;
 }
 
-#content div{
+/*homepage material*/
+.photo_slide_show{
     height: 100px;
+    width: 500px;
     text-align: left;
 }
 
+.description div {
+    height: 40px;
+}
+    
 .header {
     border-style: dotted;
     border-width: 2px;
@@ -55,7 +61,6 @@ div {
     text-align: center;
 }
 
-.description div {
-    height: 10px;
-}
+
+
 

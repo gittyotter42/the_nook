@@ -1,6 +1,4 @@
 <?php include('header.php') ?>
-    <div class = "title">  </div>
-    
     <div class = "row">
         <div class = "col-lg-2">
   </div>

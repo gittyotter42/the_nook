@@ -7,8 +7,6 @@
     
 */
 
-
-
 body {
     background-color: #89D1E8
 }
@@ -37,7 +35,15 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
     margin-top: 10px;
 }
 
+.logo {
+    padding-bottom: 30px;
+}
+
 .white-panel {
     background-color: #FDFCFD;
     border-radius:5px;
+    box-shadow: 4px 4px 18px #888888;
+    padding: 2px;
+    margin: 5px;
 }
+

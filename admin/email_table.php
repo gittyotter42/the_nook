@@ -1,5 +1,4 @@
 <?php
-//establishing connection
    class MyDB extends SQLite3
    {
       function __construct()
@@ -14,15 +13,23 @@
       echo "Opened database successfully\n";
    }
    
-//creating table
+   
+   $drop = "DROP TABLE EMAIL;";
+
+   $ret = $db->exec($drop);
+   if(!$ret){
+      echo $db->lastErrorMsg();
+   } else {
+      echo "Table dropped successfully\n";
+   }
+
    $sql =<<<EOF
-      CREATE TABLE GALLERY_SLIDESHOW
-     (ID INT PRIMARY KEY      NOT NULL,
-      NAME           TEXT     NOT NULL,
-      PHOTO          TEXT     NOT NULL,
-      STATUS         INT      NOT NULL,
-      ORIGINAL       TEXT     NOT NULL,
-      THUMBNAIL      TEXT     NOT NULL);
+      
+      CREATE TABLE EMAIL
+      (ID INTEGER PRIMARY KEY,
+      NAME           TEXT    NOT NULL,
+      EMAIL          TEXT    NOT NULL,
+      MESSAGE        TEXT    NOT NULL);
 EOF;
 
    $ret = $db->exec($sql);

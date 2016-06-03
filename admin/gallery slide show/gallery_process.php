@@ -1,7 +1,7 @@
 <?php
-    
+//getting info from user input and inserting
 var_dump($_GET); 
-$sql = "INSERT INTO EMAIL (ID, NAME,EMAIL) VALUES (NULL, '".$_GET["name"]."', '".$_GET["email"]."');";
+$sql = "INSERT INTO GALLERY_SLIDESHOW (ID, TITLE, PHOTO, STATUS) VALUES (NULL, '".$_GET["title"]."', '".$_GET["photo"]."', '".$_GET["status"]."');";
 
 echo $sql; 
 
@@ -12,13 +12,14 @@ echo $sql;
          $this->open('test.db');
       }
    }
+//opening database
    $db = new MyDB();
    if(!$db){
       echo $db->lastErrorMsg();
    } else {
       echo "Opened database successfully\n";
    }
-
+//creating records and closing database
    $ret = $db->exec($sql);
    if(!$ret){
       echo $db->lastErrorMsg();
@@ -26,18 +27,4 @@ echo $sql;
       echo "Records created successfully\n";
    }
    $db->close();
-
-function drop_table($text){
-   $drop = "DROP TABLE ".$text.";";
-   
-   $ret = $db->exec($drop);
-   if(!$ret){
-      echo $db->lastErrorMsg();
-   } else {
-      echo "Records created successfully\n";
-   }
-}
-
-
-
 ?>

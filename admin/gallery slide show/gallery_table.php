@@ -16,9 +16,9 @@
    
 //creating table
    $sql =<<<EOF
-      CREATE TABLE HOMEPAGE_SLIDESHOW
+      CREATE TABLE GALLERY_SLIDESHOW
      (ID             INTEGER  PRIMARY KEY,
-      NAME           TEXT     NOT NULL,
+      TITLE          TEXT     NOT NULL,
       PHOTO          TEXT     NOT NULL,
       STATUS         INTEGER  NOT NULL);
 EOF;
@@ -30,5 +30,4 @@ EOF;
       echo "Table created successfully\n";
    }
    $db->close();
-
 ?>
