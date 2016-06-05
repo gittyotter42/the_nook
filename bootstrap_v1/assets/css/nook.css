@@ -42,8 +42,26 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
 .white-panel {
     background-color: #FDFCFD;
     border-radius:5px;
-    box-shadow: 4px 4px 18px #888888;
-    padding: 2px;
+    box-shadow: 5px 5px 18px #888888;
+    padding: 10px;
     margin: 5px;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: "Comic Sans MS", cursive, sans-serif;   
+    color: #E79EA9;
+    font-weight: bold;
+}
+p {
+    font-size: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 500;
+}
+
+ul {
+    font-size: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 500;
 }
 

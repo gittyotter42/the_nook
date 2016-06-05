@@ -21,6 +21,7 @@
       echo "ID = ". $row['ID'] . "<br>\n";
       echo "NAME = ". $row['NAME'] ."\n";
       echo "EMAIL = ". $row['EMAIL'] ."\n";  
+      echo "MESSAGE = ". $row['MESSAGE'] ."\n";
    }
    echo "Operation done successfully\n";
    $db->close();
