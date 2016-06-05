@@ -2,15 +2,18 @@
 <div class = "title"> <h2 align = "center">GALLERY</h2> </div>
 
 <div class="row">
-  <div class = "col-lg-2">
-  </div>
+  <div class = "col-lg-2"></div>
     <div class="col-lg-8">
       <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
           <li data-target="#carousel-example-generic" data-slide-to="1" class="active"></li>
           <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
-          <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+          <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
+          <li data-target="#carousel-example-generic" data-slide-to="4" class=""></li>
+          <li data-target="#carousel-example-generic" data-slide-to="5" class=""></li>
+          <li data-target="#carousel-example-generic" data-slide-to="6" class=""></li>
+          <li data-target="#carousel-example-generic" data-slide-to="7" class=""></li>
         </ol>
         <div class="carousel-inner" role="listbox">
           <div class="item">
@@ -25,6 +28,18 @@
           <div class="item">
             <img class="img-thumbnail" src="assets/images/slides_740.jpg" alt="The Nook" >
           </div>
+          <div class="item">
+            <img class="img-thumbnail" src="assets/images/ballpit.jpg" alt="The Nook" >
+          </div>
+          <div class="item">
+            <img class="img-thumbnail" src="assets/images/nookplayground.jpg" alt="The Nook" >
+          </div>
+          <div class="item">
+            <img class="img-thumbnail" src="assets/images/readingnook.jpg" alt="The Nook" >
+          </div>
+          <div class="item">
+            <img class="img-thumbnail" src="assets/images/viewingarea.jpg" alt="The Nook" >
+          </div>
         </div>
         <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
           <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -36,8 +51,7 @@
         </a>
       </div>
     </div>
-    <div class = "col-lg-2">
-  </div>
+    <div class = "col-lg-2"></div>
   </div></br>
 
 <?php include('footer.php') ?>

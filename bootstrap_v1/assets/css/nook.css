@@ -8,7 +8,7 @@
 */
 
 body {
-    background-color: #89D1E8
+    background-color: #FDFCFD
 }
 
 .masthead .nav-justified  {
@@ -40,7 +40,7 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
 }
 
 .white-panel {
-    background-color: #FDFCFD;
+    background-color: #89D1E8;
     border-radius:5px;
     box-shadow: 5px 5px 18px #888888;
     padding: 10px;
@@ -50,13 +50,14 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
 h2 {
     font-size: 28px;
     font-family: "Comic Sans MS", cursive, sans-serif;   
-    color: #E79EA9;
+    color: #f69c9c;
     font-weight: bold;
 }
 p {
     font-size: 15px;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-weight: 500;
+    color: #3A3A38;
 }
 
 ul {
@@ -65,3 +66,7 @@ ul {
     font-weight: 500;
 }
 
+.left-bumper {
+    margin-left: 35px;
+    
+}

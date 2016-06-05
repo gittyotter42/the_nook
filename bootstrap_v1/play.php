@@ -21,7 +21,7 @@
         <div class = "white-panel">
             <h2 align = "center">MEMBERSHIP</h2>
             <hr>
-            <p align = "center">$37 for first child/$34 for second child/siblings</p>
+            <p align = "center">$34.99/Child</p>
             <ul>
              <li>Credit card will be automatically deducted each month unless notified by customers</li>
             </ul>

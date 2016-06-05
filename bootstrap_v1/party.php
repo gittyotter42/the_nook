@@ -2,6 +2,11 @@
 
 <div class="row">
     <div class="col-md-4">
+        <div class= "white-panel">
+        <div align = "center">
+        <img src= "assets/images/socks.png" alt = "socks_only" style="width:282px;height:247px;">
+        </div>
+        </div>
         </div>
     
       <div class="col-md-4">
@@ -18,6 +23,11 @@
       </div>
       
       <div class="col-md-4">
+          <div class= "white-panel">
+          <div align = "center">
+        <img src= "assets/images/socks.png" alt = "socks_only" style="width:282px;height:247px;">
+        </div>
+        </div>
         </div>
   </div>
   
