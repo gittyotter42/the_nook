@@ -7,9 +7,10 @@
             <hr>
             <p align = "center">$10 for 9m+/$8 for sibling(s)</p>
             <ul>
-              <li>All day play/multiple entries</li>
+              <li>All day play</li>
+              <li>Multiple entries allowed</li>
               <li>Adults are free</li>
-              <li>outside food welcome</li>
+              <li>Outside food welcome</li>
               <li>SOCKS REQUIRED</li>
               <li>9m and younger must enter with one paid 
               admission in order to receive free admission</li>
@@ -23,7 +24,7 @@
             <hr>
             <p align = "center">$34.99/Child</p>
             <ul>
-             <li>Credit card will be automatically deducted each month unless notified by customers</li>
+             <li>Credit card deducted each month unless notified by customers</li>
             </ul>
         </div>
     </div>
@@ -52,7 +53,6 @@
             </ul>
         </div>
     </div>
-</div>
-    
+</div> </br>
     
 <?php include('footer.php') ?>    

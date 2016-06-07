@@ -43,7 +43,7 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
     background-color: #89D1E8;
     border-radius:5px;
     box-shadow: 5px 5px 18px #888888;
-    padding: 10px;
+    padding: 20px;
     margin: 5px;
 }
 
@@ -68,5 +68,18 @@ ul {
 
 .left-bumper {
     margin-left: 35px;
+}
+
+.family-img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.carousel-inner {
+    margin-top: 6px;
+}
+
+.call-to-book{
+    height: 370px
     
 }
