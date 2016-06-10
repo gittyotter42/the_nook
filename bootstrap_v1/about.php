@@ -36,13 +36,15 @@
   </div>
 </div> </br>
 
+  </div></br>
+  
 <div class="row">
     <div class="col-lg-4"> 
     </div>
     <div class="col-lg-4">
         <div class = "white-panel">
             <div align = "center">
-                <a href='#top'>Back to Top</a>
+                <a href='#top'> <h4>Back to Top</h4></a>
             </div>
         </div>
     </div> 

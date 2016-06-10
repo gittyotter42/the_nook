@@ -51,6 +51,11 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
     margin: 5px;
 }
 
+h4 {
+    color: #FF4500;
+    font-family: "Patrick Hand", cursive, sans-serif;
+    font-weight: bold;
+}
 h2 {
     font-size: 35px;
     font-family: "Patrick Hand", cursive, sans-serif;   
