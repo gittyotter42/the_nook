@@ -4,8 +4,11 @@
     off white   #FDFCFD
     black       #000000
     darker blue #33AFD7
+    darker pink: #ff3399
+    Hot orange: #FF4500
     
 */
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
 
 body {
     background-color: #FDFCFD
@@ -35,6 +38,7 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
     margin-top: 10px;
 }
 
+
 .logo {
     padding-bottom: 30px;
 }
@@ -48,21 +52,21 @@ background-image: linear-gradient(to bottom, #40C0FF  0%, #36A2D8 100%);
 }
 
 h2 {
-    font-size: 28px;
-    font-family: "Comic Sans MS", cursive, sans-serif;   
-    color: #f69c9c;
-    font-weight: bold;
+    font-size: 35px;
+    font-family: "Patrick Hand", cursive, sans-serif;   
+    color: #FF4500;
+    font-weight: bolder;
 }
 p {
-    font-size: 15px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 18px;
+    font-family: "Patrick Hand", cursive, sans-serif;
     font-weight: 500;
     color: #3A3A38;
 }
 
 ul {
-    font-size: 15px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    font-family: "Patrick Hand", cursive, sans-serif;
     font-weight: 500;
 }
 
@@ -82,4 +86,8 @@ ul {
 .call-to-book{
     height: 370px
     
+}
+
+.info-block {
+    margin-left: 35px;
 }

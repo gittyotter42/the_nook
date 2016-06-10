@@ -1,4 +1,6 @@
+<a name="top"></a>
 <?php include('header.php') ?>
+</br>
 
 <div class="row">
   <div class="col-md-12">
@@ -7,7 +9,7 @@
       <hr>
         <div class="row">
           <div class="col-md-8">
-            <p>The Nook was designed by Vicky Tosa, a mother of two boys ages 1.5 year old and 3 year old.  
+            <p>The Nook was designed by Vicky Tosa, a mother of two boys ages 3 year old and 1.5 year old.  
             Vicky was inspired and motivated by her children to create The Nook after learning that each
             of them love to do different activities. While one loves to run, the other is happy to just sit and read. 
             This inspired the creation of The Nook, a safe, clean and stimulating open concept indoor playground suitable 
@@ -24,13 +26,26 @@
             them to explore their mental and physical abilities in order to improve fine motor skills. Children are our future, 
             let The Nook assist you in cultivating a bright and healthy life for our future.</p>
           </div>
-           <div class="col-md-4">
-             <div class = "family-img">
-               <a href="http://imgur.com/WfSLmiK"><img src="http://i.imgur.com/WfSLmiKm.jpg"/></a>
-             </div>
+        <div class="col-md-4">
+          <div class = "family-img">
+           <a href="http://imgur.com/WfSLmiK"><img src="http://i.imgur.com/WfSLmiKm.jpg"/></a>
+          </div>
         </div>
-        </div>
+      </div>
     </div>
   </div>
 </div> </br>
-<?php include('footer.php') ?>
+
+<div class="row">
+    <div class="col-lg-4"> 
+    </div>
+    <div class="col-lg-4">
+        <div class = "white-panel">
+            <div align = "center">
+                <a href='#top'>Back to Top</a>
+            </div>
+        </div>
+    </div> 
+    <div class="col-lg-4"> 
+    </div>
+</div></br>

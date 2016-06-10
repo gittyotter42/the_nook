@@ -1,3 +1,4 @@
+<a name="top"></a>
 <?php include('header.php') ?>
     
 <div class="row">
@@ -22,7 +23,7 @@
         <div class = "white-panel">
             <h2 align = "center">MEMBERSHIP</h2>
             <hr>
-            <p align = "center">$34.99/Child</p>
+            <p align = "center">$35/Child</p>
             <ul>
              <li>Credit card deducted each month unless notified by customers</li>
             </ul>
@@ -37,6 +38,7 @@
             <ul>
               <li>30 minutes per class</li>
               <li>1-3 year old</li>
+
             </ul>
         </div>
     </div>
@@ -49,10 +51,22 @@
             <ul>
               <li>Free with paid admission</li>
               <li>For all ages</li>
-              <li>See calendar for dates and times</li>
             </ul>
         </div>
     </div>
 </div> </br>
-    
-<?php include('footer.php') ?>    
+
+<div class="row">
+    <div class="col-lg-4"> 
+    </div>
+    <div class="col-lg-4">
+        <div class = "white-panel">
+            <div align = "center">
+                <a href='#top'>Back to Top</a>
+            </div>
+        </div>
+    </div> 
+    <div class="col-lg-4"> 
+    </div>
+</div></br>
+             
