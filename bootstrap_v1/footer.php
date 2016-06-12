@@ -1,7 +1,4 @@
-          <div class="masthead">
-            <?php include("menu.php")?>
-          </div>
-    </div> <!-- /container -->
+</div> <!-- /container -->
 
 
     <!-- Bootstrap core JavaScript
