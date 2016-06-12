@@ -38,6 +38,7 @@
             <ul>
               <li>30 minutes per class</li>
               <li>1-3 year old</li>
+              <li>Makeups available</li>
 
             </ul>
         </div>
@@ -51,6 +52,7 @@
             <ul>
               <li>Free with paid admission</li>
               <li>For all ages</li>
+              <li>30 mins every Mondays and Thursdays</li>
             </ul>
         </div>
     </div>
@@ -69,4 +71,5 @@
     <div class="col-lg-4"> 
     </div>
 </div></br>
-             
+
+<?php include('footer.php') ?>

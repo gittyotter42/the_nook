@@ -2,19 +2,20 @@
 <?php include('header.php') ?>
 <div class = "title"> <h2 align = "center">GALLERY</h2> </div>
 
+
 <div class="row">
   <div class = "col-lg-2"></div>
       <div class="col-lg-8">
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="1" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="4" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="5" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="6" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="7" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="7" class="active"></li>
           </ol>
           <div class="carousel-inner" role="listbox">
             <div class="item">
@@ -69,3 +70,5 @@
     <div class="col-lg-4"> 
     </div>
 </div></br>
+
+<?php include('footer.php') ?>

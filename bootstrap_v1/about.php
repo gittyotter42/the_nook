@@ -26,11 +26,11 @@
             them to explore their mental and physical abilities in order to improve fine motor skills. Children are our future, 
             let The Nook assist you in cultivating a bright and healthy life for our future.</p>
           </div>
-        <div class="col-md-4">
-          <div class = "family-img">
-           <a href="http://imgur.com/WfSLmiK"><img src="http://i.imgur.com/WfSLmiKm.jpg"/></a>
+          <div class="col-md-4">
+            <div class = "family-img" align = "center">
+             <a class="family-photo"><img src="assets/images/vickyfam.jpg" alt="fam-bam" height="300" width="225"/></a>
+            </div>
           </div>
-        </div>
       </div>
     </div>
   </div>
@@ -51,3 +51,5 @@
     <div class="col-lg-4"> 
     </div>
 </div></br>
+
+<?php include('footer.php') ?>
