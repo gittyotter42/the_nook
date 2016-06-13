@@ -35,23 +35,14 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <div class="item">
               <img class="img-thumbnail" src="assets/images/books_740.jpg" alt="Books!" >
             </div>
-            <div class="item active">
-              <img class="img-thumbnail" src="assets/images/cars_740.jpg" alt="Cars!" >
-            </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/nook_740.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/slides_740.jpg" alt="The Nook" >
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/ballpit.jpg" alt="The Nook" >
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/nookplayground.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/readingnook.jpg" alt="The Nook" >
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/viewingarea.jpg" alt="The Nook" >
