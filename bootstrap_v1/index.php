@@ -51,6 +51,7 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <li data-target="#carousel-example-generic" data-slide-to="27" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="28" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
