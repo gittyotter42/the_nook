@@ -39,6 +39,8 @@
             <li data-target="#carousel-example-generic" data-slide-to="28" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="31" class=""></li>
+
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
@@ -134,6 +136,9 @@
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/DSC02522.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/pianonook.jpg" alt="The Nook" >
             </div>
           </div>
           <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
