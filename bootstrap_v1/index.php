@@ -52,6 +52,8 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <li data-target="#carousel-example-generic" data-slide-to="28" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="31" class=""></li>
+
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
@@ -147,6 +149,9 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/DSC02522.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/pianonook.jpg" alt="The Nook" >
             </div>
           </div>
           
