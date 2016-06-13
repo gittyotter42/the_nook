@@ -37,10 +37,9 @@
             <p align = "center">$48/4 classes</p>
             <ul>
               <li>30 minutes per class</li>
-              <li>Tuesdays at 11am</li>
               <li>1-3 year old</li>
               <li>Makeups available</li>
-
+              <li>See <a href="calendar.php">Calendar</a> for dates and times</li>
             </ul>
         </div>
     </div>
