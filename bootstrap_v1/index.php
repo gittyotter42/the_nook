@@ -51,12 +51,6 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <li data-target="#carousel-example-generic" data-slide-to="27" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="28" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="31" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="32" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="33" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="34" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="35" class=""></li>
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
@@ -64,22 +58,7 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
               <img class="img-thumbnail" src="assets/images/books_740.jpg" alt="Books!" >
             </div>
             <div class="item">
-              <img class="img-thumbnail" src="assets/images/cars_740.jpg" alt="Cars!" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/nook_740.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/slides_740.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/ballpit.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
               <img class="img-thumbnail" src="assets/images/nookplayground.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/readingnook.jpg" alt="The Nook" >
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/viewingarea.jpg" alt="The Nook" >
