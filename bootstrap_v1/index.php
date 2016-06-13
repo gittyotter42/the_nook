@@ -30,7 +30,6 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <li data-target="#carousel-example-generic" data-slide-to="6" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="7" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="8" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="9" class=""></li>
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
@@ -57,9 +56,6 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/viewingarea.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/books.jpg" alt="The Nook" >
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/740books.jpg" alt="The Nook" >
