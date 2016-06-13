@@ -8,7 +8,7 @@
       <div class="col-lg-8">
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
@@ -39,12 +39,12 @@
             <li data-target="#carousel-example-generic" data-slide-to="28" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="31" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="31" class="active"></li>
 
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
-            <div class="item active">
+            <div class="item">
               <img class="img-thumbnail" src="assets/images/books_740.jpg" alt="Books!" >
             </div>
             <div class="item">
@@ -137,7 +137,7 @@
             <div class="item">
               <img class="img-thumbnail" src="assets/images/DSC02522.jpg" alt="The Nook" >
             </div>
-            <div class="item">
+            <div class="item active">
               <img class="img-thumbnail" src="assets/images/pianonook.jpg" alt="The Nook" >
             </div>
           </div>
