@@ -37,6 +37,26 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <li data-target="#carousel-example-generic" data-slide-to="13" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="14" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="15" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="16" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="17" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="18" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="19" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="20" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="21" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="22" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="23" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="24" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="25" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="26" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="27" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="28" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="31" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="32" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="33" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="34" class=""></li>
+            <li data-target="#carousel-example-generic" data-slide-to="35" class=""></li>
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
@@ -87,6 +107,66 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/DSC02394.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02398.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02399.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02402.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02406.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02412.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02414.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02416.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02419.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02421.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02423.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02425.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02438.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02442.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02447.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02463.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02470.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02494.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02498.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02520.jpg" alt="The Nook" >
+            </div>
+            <div class="item">
+              <img class="img-thumbnail" src="assets/images/DSC02522.jpg" alt="The Nook" >
             </div>
           </div>
           
