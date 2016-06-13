@@ -94,7 +94,7 @@
                             <li>Additional child $10/child</li>
                             <li>Large topping pizza $15/pizza</li>
                             <li>Extra party time $100/hour</li>
-                            <li>Paper plates $1/plate</li>
+                            <li>Paper plate set $1/set</li>
                         </ul>
                         </div>
                    </div>
