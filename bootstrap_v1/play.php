@@ -53,7 +53,7 @@
             <ul>
               <li>Free with paid admission</li>
               <li>For all ages</li>
-              <li>30 mins every Mondays and Thursdays</li>
+              <li>See <a href="calendar.php">Calendar</a> for dates and times</li>
             </ul>
         </div>
     </div>
