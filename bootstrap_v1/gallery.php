@@ -24,6 +24,9 @@
             <div class="item active">
               <img class="img-thumbnail" src="assets/images/cars_740.jpg" alt="Cars!" >
             </div>
+            <div class="item active">
+              <img class="img-thumbnail" src="assets/images/books.jpg" alt="Cars!" >
+            </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/nook_740.jpg" alt="The Nook" >
             </div>
