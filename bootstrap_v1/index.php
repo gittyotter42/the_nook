@@ -205,6 +205,18 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
   </div>
 </div></br>
 
+<div class = "row">
+  <div class = "col-lg-2"></div>
+  <div class = "col-lg-8">
+    <div class= "white-panel">
+      <h2 align = "center">Announcements</h2>
+      <hr>
+      
+    </div>
+  </div>
+  <div class = "col-lg-2"></div>
+</div></br>
+
 <div class="row">
   <div class="col-lg-4"> 
   </div>
