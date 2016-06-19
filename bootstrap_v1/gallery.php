@@ -40,7 +40,6 @@
             <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="31" class="active"></li>
-
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">

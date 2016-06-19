@@ -48,18 +48,11 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <li data-target="#carousel-example-generic" data-slide-to="24" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="25" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="26" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="27" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="28" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="29" class=""></li>
-            <li data-target="#carousel-example-generic" data-slide-to="30" class=""></li>
             <li data-target="#carousel-example-generic" data-slide-to="31" class="active"></li>
 
           </ol>
           <!-- List of contents -->
           <div class="carousel-inner" role="listbox">
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/books_740.jpg" alt="Books!" >
-            </div>
             <div class="item">
               <img class="img-thumbnail" src="assets/images/nookplayground.jpg" alt="The Nook" >
             </div>
@@ -141,15 +134,6 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
             <div class="item">
               <img class="img-thumbnail" src="assets/images/DSC02494.jpg" alt="The Nook" >
             </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/DSC02498.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/DSC02520.jpg" alt="The Nook" >
-            </div>
-            <div class="item">
-              <img class="img-thumbnail" src="assets/images/DSC02522.jpg" alt="The Nook" >
-            </div>
             <div class="item active">
               <img class="img-thumbnail" src="assets/images/pianonook.jpg" alt="The Nook" >
             </div>
@@ -211,7 +195,8 @@ data-layout="standard" data-action="like" data-show-faces="true" data-share="tru
     <div class= "white-panel">
       <h2 align = "center">Announcements</h2>
       <hr>
-      
+      <p align = "center"> We will be closed on Sunday June 19th for Father's Day </p>
+
     </div>
   </div>
   <div class = "col-lg-2"></div>
